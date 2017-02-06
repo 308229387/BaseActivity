@@ -1,4 +1,4 @@
-package com.baseactivity;
+package com;
 
 /**
  * Created by SongYongmeng on 2016/7/28.

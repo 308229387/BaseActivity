@@ -2,6 +2,8 @@ package com.baseactivity;
 
 import android.widget.Toast;
 
+import com.BaseModel;
+
 /**
  * Created by songyongmeng on 2017/2/6.
  */
